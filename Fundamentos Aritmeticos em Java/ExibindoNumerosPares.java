@@ -1,4 +1,3 @@
-package br.com.mouratocarlos;
 
 import java.util.Scanner;
 
